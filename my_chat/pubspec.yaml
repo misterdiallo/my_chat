@@ -1,7 +1,7 @@
 name: my_chat
-description: A new Flutter package project.
+description: A new Flutter package to create a chat and message ui.
 version: 0.0.1
-homepage:
+homepage: https://github.com/misterdiallo/my_chat 
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
